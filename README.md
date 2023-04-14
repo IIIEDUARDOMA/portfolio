@@ -1,7 +1,6 @@
 # portfolio
 Meu primeiro portfolio criado com os cursos de HTML e CSS com a Alura.
 ![image](https://github.com/IIIEDUARDOMA/portfolio/blob/main/pagina_inicial.png)
-
 ## Ferramentas Utilizadas:
 
 *HTML;
