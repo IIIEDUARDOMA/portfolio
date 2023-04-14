@@ -127,6 +127,7 @@ width: 50%;
     }
     .cabecalho {
         padding: 15%;
+        gap: 35px;
     }
 
     .cabecalho__menu {
