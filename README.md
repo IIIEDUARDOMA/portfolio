@@ -10,8 +10,8 @@ Meu primeiro portfolio criado com os cursos de HTML e CSS com a Alura.
 
 *FLEX-BOX
 
-## Feito por:
+![Rodape](https://user-images.githubusercontent.com/129783126/233211709-f74df33c-7d3a-4b09-a6f2-20f130623582.png)
 
-### Eduardo Martins de Almeida
 
-### linkedin: https://www.linkedin.com/in/eduardo-almeida-5a3a5b220/
+### Linkedin: https://www.linkedin.com/in/eduardo-almeida-5a3a5b220/
+### Instagram: https://www.instagram.com/eduardo_mart1/
